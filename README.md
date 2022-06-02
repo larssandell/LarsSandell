@@ -9,7 +9,7 @@ Lars here and im studying my first year of Front-end Development at Noroff Schoo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark)
 
-My Skills:
+<p align="center">My Skills:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode" />
