@@ -1,6 +1,6 @@
 ### Hi there 👋
 Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
-<div display="flex" flex-direction="row">
+<div display="inline-block">
 <img
   src="https://github.com/larssandell/LarsSandell/blob/main/lars.jpg"
   alt="picture of me"
