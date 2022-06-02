@@ -2,7 +2,7 @@
 Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
 
 <img
-  src="(https://github.com/larssandell/LarsSandell/blob/main/lars.jpg)"
+  src="https://github.com/larssandell/LarsSandell/blob/main/lars.jpg"
   alt="picture of me"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
