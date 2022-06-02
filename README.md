@@ -1,6 +1,6 @@
 ### Hi there 👋
 Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
-![alt text](https://github.com/larssandell/LarsSandell/blob/main/lars.jpg)
+![alt text](https://github.com/larssandell/LarsSandell/blob/main/lars.jpg "picture of me")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark)
 
 
