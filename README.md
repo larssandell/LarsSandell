@@ -18,7 +18,8 @@ Lars here and im studying my first year of Front-end Development at Noroff Schoo
   </a>
 </p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssandell)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/larssandell)  
