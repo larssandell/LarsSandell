@@ -15,7 +15,6 @@ Lars here and im studying my first year of Front-end Development at Noroff Schoo
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssandell)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/larssandell)  
