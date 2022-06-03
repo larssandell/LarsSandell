@@ -6,7 +6,8 @@ Lars here and im studying my first year of Front-end Development at Noroff Schoo
   alt="picture of me"
   title=""
   style="display: inline-block; margin: 0 auto; width: 200px">
- 
+
+<img src=https://github.com/larssandell/LarsSandell/blob/main/LS-logo-whiteV2.png" width="100" />
 ![logo - LS](https://github.com/larssandell/LarsSandell/blob/main/LS-logo-whiteV2.png)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark)
