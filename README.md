@@ -1,13 +1,11 @@
 ### Hi there 👋
-Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
 <div display="inline-block" align=center>
-  Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
 <img
   src="https://github.com/larssandell/LarsSandell/blob/main/lars.jpg"
   alt="picture of me"
   title=""
   style="display: inline-block; margin: 0 auto; width: 200px">
-
+Lars here and im studying my first year of Front-end Development at Noroff School of Technology. 
 ![logo LS](https://github.com/larssandell/LarsSandell/blob/main/LS-logo-whiteV2.png | width=50)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark)
 </div>
