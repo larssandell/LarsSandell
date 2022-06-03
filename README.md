@@ -27,3 +27,9 @@ Lars here and im studying my first year of Front-end Development at Noroff Schoo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' color='white'>](https://www.facebook.com/BingoPingo)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lars-sandell/) 
+
+<figure class="video_container">
+  <iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2"> </iframe>
+</figure>
+![til](https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2)
+
