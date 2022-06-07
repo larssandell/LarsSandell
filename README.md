@@ -1,27 +1,14 @@
 
 <div display="inline-block" align=center>
+<img align="center" src="https://github.com/larssandell/LarsSandell/blob/main/lars-banner.png" />
 
 </div>
-
-<table>
-<tr>
-<td align="top" width="33%">
-<img align="center" src="https://github.com/larssandell/LarsSandell/blob/main/lars.jpg" width="200" />
-</td>
-<td width="34%">
-<p>Lars here and im studying my first year of Front-end Development at Noroff School of Technology.</p>
-</td>
-<td align="top" width="33%">
-  <div>
-    <br>
-    <img align="center" src="https://github.com/larssandell/LarsSandell/blob/main/LS-logo-whiteV2.png" width="100">
-    <br>
-  </div>
-</td>
-</tr>
-</table>
+<br>
 <br>
 ### Hi there 👋
+<p>
+  I have a passion for learning about technology in IT and started studying Front-end development, i have earlier worked with installation, repairing and deployment of software and hardware as an IT-consulton for 12 years, and wanted to try something else. Programming and development is a field i always wanted to learn.
+So now i jumped head on and going back to school too learn Front-end Dev. My goal is to become a full-stack developer.
 
 <h2>Statistics:</h2>
 <div>
