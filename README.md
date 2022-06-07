@@ -7,9 +7,9 @@
 <br>
 ### Hi there 👋
 <p>
-  I have a passion for learning about technology in IT and started studying Front-end development, i have earlier worked with installation, repairing and deployment of software and hardware as an IT-consulton for 12 years, and wanted to try something else. Programming and development is a field i always wanted to learn.
-So now i jumped head on and going back to school too learn Front-end Dev. My goal is to become a full-stack developer.
-
+  <br>
+I have a passion for learning about technology in IT and started studying Front-end development, I have earlier worked with installation, repairing and deployment of software and hardware as an IT- consultant for 12 years, and wanted to try something else. Programming and development is a field I always wanted to learn. So now I jumped head on and going back to school to learn Front-end Dev. My goal is to become a full-stack developer. 
+</p>
 <h2>Statistics:</h2>
 <div>
  <img class="img" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark" />
