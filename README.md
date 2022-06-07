@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div display="inline-block" align=center>
 
 </div>
@@ -20,20 +20,24 @@
 </td>
 </tr>
 </table>
+<br>
+### Hi there 👋
 
 <h2>Statistics:</h2>
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larssandell&theme=dark&layout=compact" />
-</div> 
+<div>
+ <img class="img" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=larssandell&show_icons=true&theme=dark" />
+ <img class="img" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larssandell&theme=dark&layout=compact" />
+</div>
 <br>
-  
-<h2>My Skills:</h2>
+<br>
+<div> 
+<h2 align="left">My Skills:</h2>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode" />
   </a>
 </p>
+  </div>
 <br>
   
 <h2>Sosial Media:</h2>
