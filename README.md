@@ -1,6 +1,6 @@
 
 <div display="inline-block" align=center>
-<img align="center" src="https://github.com/larssandell/LarsSandell/blob/main/lars-bannerv2.png" />
+<img align="center" src="https://github.com/larssandell/LarsSandell/blob/main/lars-bannerv3.png" />
 
 </div>
 <br>
