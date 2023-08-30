@@ -22,12 +22,12 @@ I have a passion for learning about technology in IT and started studying Front-
 <h2 align="left">My Skills:</h2>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode,react" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode,react,materialui,vite" />
   </a>
 </p>
   <p align="center">Learning:</p>
   <p align="center"><a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Mui" />
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a></p>
   </div>
 <br>
