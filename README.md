@@ -36,7 +36,6 @@ I have a passion for learning about technology in IT and started studying Front-
   
 <div align="center">
 <a href="https://www.linkedin.com/in/lars-sandell"><img height="50" src="https://github.com/larssandell/LarsSandell/blob/main/LinkedIN.png?raw=true"></a>
-<a href="https://www.facebook.com/BingoPingo"><img height="50" src="https://github.com/larssandell/LarsSandell/blob/main/Facebook.png?raw=true"></a>
 </div>
 <br>
 
